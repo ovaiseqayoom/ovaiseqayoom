@@ -1,12 +1,51 @@
-- 👋 Hi, I’m @ovaiseqayoom
-- 👀 I’m interested in coading...
-- 🌱 I’m currently learning computer science and enginering...
-- 💞️ I’m looking to collaborate on various projects...
-- 📫 How to reach me +91 7889984304...
-- 😄 Pronouns kallis...
-- ⚡ Fun fact: ...
+# Hi, I'm Kallis 👋
 
-<!---
-ovaiseqayoom/ovaiseqayoom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software Engineer · Full-Stack Developer · UI Designer**
+
+I build web applications, backend systems, APIs, and digital products with a focus on clean architecture, practical UX, and reliable engineering.
+
+```text
+Kallis
+├── Full-Stack Development
+├── Backend & API Engineering
+├── Web & App Development
+├── UI / UX & Visual Design
+└── Cloud & Deployment
+```
+
+### Tech Stack
+
+**Frontend**
+`React` `Next.js` `TypeScript` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Python` `FastAPI` `Go` `REST APIs` `GraphQL`
+
+**Databases**
+`PostgreSQL` `MongoDB` `Redis` `Supabase`
+
+**Cloud & DevOps**
+`AWS` `Docker` `Cloudflare` `Vercel` `Render`
+
+### What I Work On
+
+- Full-stack web applications
+- Backend systems and REST APIs
+- SaaS products and internal tools
+- Database architecture
+- Responsive interfaces and design systems
+- Cloud deployment and infrastructure
+
+### Currently
+
+Building and improving real-world software projects while exploring better approaches to backend architecture, product design, and modern web development.
+
+### Let's Connect
+
+If you're working on something interesting, feel free to reach out or collaborate.
+
+**GitHub:** [@ovaiseqayoom](https://github.com/ovaiseqayoom)
+
+---
+
+> Build useful things. Keep the code clean.
