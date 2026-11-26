@@ -1,102 +1,30 @@
-# Kallis
+<h1 align="left">Hi, I'm Kallis 👋</h1>
 
-### Software Engineer · Full-Stack Developer · UI Designer
+<p align="left">
+  Software Engineer building web applications, backend systems, and digital experiences.
+</p>
 
-I build **web applications, backend systems, APIs, and digital products**.
+<p align="left">
+  <a href="https://kallis.in">Website</a> ·
+  <a href="https://github.com/ovaiseqayoom">GitHub</a>
+</p>
 
-My work sits between engineering and design, with a focus on **clean architecture, thoughtful interfaces, performance, and maintainable code.**
+### Tech Stack
 
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,mongodb,supabase,docker,aws,cloudflare&theme=light" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ovaiseqayoom-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/ovaiseqayoom)
-[![Website](https://img.shields.io/badge/Website-kallis.in-181818?style=flat-square&logo=google-chrome&logoColor=white)](https://kallis.in)
+### Recent Project
 
----
+**[Construction & Architecture Website](https://github.com/ovaiseqayoom/construction-and-architecture-website)**
 
-## What I Do
+A web project focused on the construction and architecture industry.
 
-| Engineering | Design |
-|---|---|
-| Full-Stack Applications | UI / UX |
-| Backend Architecture | Design Systems |
-| REST & GraphQL APIs | Responsive Interfaces |
-| Database Design | Product Design |
-| Authentication & Security | Visual Direction |
-| Cloud & Deployment | Interaction Design |
-
----
-
-## Technology
-
-**Frontend**
-
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
-
-**Backend**
-
-`Node.js` `Python` `FastAPI` `Go` `REST` `GraphQL` `WebSockets`
-
-**Data**
-
-`PostgreSQL` `MongoDB` `Redis` `Supabase`
-
-**Infrastructure**
-
-`AWS` `Docker` `Cloudflare` `Vercel` `Render`
+[View Repository →](https://github.com/ovaiseqayoom/construction-and-architecture-website)
 
 ---
 
-## Currently Building
-
-**Real-world software products**
-
-I spend most of my time building and refining applications, backend systems, internal tools, and digital experiences.
-
-```text
-Ideas
-  ↓
-Architecture
-  ↓
-Engineering
-  ↓
-Interface
-  ↓
-Deployment
-  ↓
-Iteration
-```
-
----
-
-## Engineering Principles
-
-**01 · Keep it simple**  
-Prefer clear systems over unnecessary complexity.
-
-**02 · Build for the real world**  
-Think about security, performance, failures, and maintainability from the beginning.
-
-**03 · Design matters**  
-A technically strong product should also be clear and pleasant to use.
-
-**04 · Keep learning**  
-Tools change. Good engineering fundamentals remain.
-
----
-
-## Open to
-
-**Collaborations · Interesting Products · Engineering Projects**
-
-If you're building something worth building, feel free to connect.
-
-<br>
-
-**Kallis**  
-`Software Engineer / Full-Stack Developer`
-
-[GitHub](https://github.com/ovaiseqayoom) · [Website](https://kallis.in)
-
-<br>
-
-> **Build useful things. Build them well.**
+<p align="left">
+  <i>Building things that work. Designing things that matter.</i>
+</p>
