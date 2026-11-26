@@ -1,33 +1,40 @@
 # Kallis
 
-**Software Engineer · Full-Stack Developer · UI Designer**
+### Software Engineer · Full-Stack Developer · UI Designer
 
-I design and build modern web applications, backend systems, APIs, and digital products.
+I build **web applications, backend systems, APIs, and digital products**.
 
-I care about **good architecture, clean interfaces, maintainable code, and software that actually works.**
+My work sits between engineering and design, with a focus on **clean architecture, thoughtful interfaces, performance, and maintainable code.**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ovaiseqayoom-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/ovaiseqayoom)
+[![Website](https://img.shields.io/badge/Website-kallis.in-181818?style=flat-square&logo=google-chrome&logoColor=white)](https://kallis.in)
 
 ---
 
-### About
+## What I Do
 
-- Building full-stack web applications and backend systems
-- Designing responsive interfaces and digital products
-- Working with APIs, databases, authentication, and cloud infrastructure
-- Exploring better approaches to software architecture and product development
+| Engineering | Design |
+|---|---|
+| Full-Stack Applications | UI / UX |
+| Backend Architecture | Design Systems |
+| REST & GraphQL APIs | Responsive Interfaces |
+| Database Design | Product Design |
+| Authentication & Security | Visual Direction |
+| Cloud & Deployment | Interaction Design |
 
-### Stack
+---
 
-**Languages**
-
-`TypeScript` `JavaScript` `Python` `Go`
+## Technology
 
 **Frontend**
 
-`React` `Next.js` `Tailwind CSS` `Framer Motion`
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 
 **Backend**
 
-`Node.js` `FastAPI` `REST` `GraphQL` `WebSockets`
+`Node.js` `Python` `FastAPI` `Go` `REST` `GraphQL` `WebSockets`
 
 **Data**
 
@@ -39,39 +46,57 @@ I care about **good architecture, clean interfaces, maintainable code, and softw
 
 ---
 
-### What I Build
+## Currently Building
 
-**Web Applications**  
-Full-stack products with modern frontend architecture and reliable backend systems.
+**Real-world software products**
 
-**Backend Systems**  
-APIs, authentication, databases, business logic, integrations, and scalable services.
-
-**Digital Products**  
-Clean, responsive interfaces with attention to usability, performance, and visual design.
-
----
-
-### Selected Focus
+I spend most of my time building and refining applications, backend systems, internal tools, and digital experiences.
 
 ```text
-Software Engineering
-    ├── Full-Stack Applications
-    ├── Backend Architecture
-    ├── API Development
-    ├── Database Design
-    ├── UI / UX
-    └── Cloud Infrastructure
+Ideas
+  ↓
+Architecture
+  ↓
+Engineering
+  ↓
+Interface
+  ↓
+Deployment
+  ↓
+Iteration
 ```
 
 ---
 
-### Connect
+## Engineering Principles
 
-**GitHub**  [@ovaiseqayoom](https://github.com/ovaiseqayoom)
+**01 · Keep it simple**  
+Prefer clear systems over unnecessary complexity.
 
-**Website**  [kallis.in](https://kallis.in)
+**02 · Build for the real world**  
+Think about security, performance, failures, and maintainability from the beginning.
+
+**03 · Design matters**  
+A technically strong product should also be clear and pleasant to use.
+
+**04 · Keep learning**  
+Tools change. Good engineering fundamentals remain.
 
 ---
 
-> Build it well. Keep it simple.
+## Open to
+
+**Collaborations · Interesting Products · Engineering Projects**
+
+If you're building something worth building, feel free to connect.
+
+<br>
+
+**Kallis**  
+`Software Engineer / Full-Stack Developer`
+
+[GitHub](https://github.com/ovaiseqayoom) · [Website](https://kallis.in)
+
+<br>
+
+> **Build useful things. Build them well.**
